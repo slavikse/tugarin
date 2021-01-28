@@ -20,7 +20,7 @@
     "@electron-forge/cli": "^6.0.0-beta.52",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.52",
     "@electron-forge/plugin-webpack": "^6.0.0-beta.52",
-    "electron": "^9.1.0",
+    "electron": "^9.4.0",
     "eslint": "^7.4.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0"
